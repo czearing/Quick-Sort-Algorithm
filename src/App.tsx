@@ -6,7 +6,7 @@ export default function App() {
   return (
     <ThemeProvider>
       <div className="App">
-        <h1 className="head">Quick Sort Algorithm</h1>
+        <h1 className="header">Quick Sort Algorithm</h1>
         <div className="content">
           <h4>Swap:</h4>
           <p>1. Given an array and two indexs, swap there values.</p>
